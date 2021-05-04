@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AstroMechanical civil name is john.
+- 👀 I’m interested in engineering in general - but specially in the interaction between mechanics, electronics and software.
+- 📫 How to reach me - not sure yet.
